@@ -1,0 +1,20 @@
+{
+  "demo_counts": [
+    "10",
+    "3",
+    "5",
+    "2"
+  ],
+  "result_filters_and_tabs": "通过",
+  "downloads": "Excel五页、HTML、模板及示例已下载并重读",
+  "export_reupload": "通过",
+  "stale_report_hidden": "通过",
+  "invalid_cover_sheet_selection": "通过",
+  "bad_file_recovery_csv_zero_stock": "通过",
+  "mobile_375px": {
+    "page": 375,
+    "viewport": 375
+  },
+  "clear": "通过",
+  "javascript_errors": []
+}
